@@ -1,0 +1,5 @@
+services:
+    - type: web
+    name: apk-decompiler
+    env: docker
+    dockerfilePath: ./Dockerfile
